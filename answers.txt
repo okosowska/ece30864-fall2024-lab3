@@ -7,3 +7,8 @@ Pros:
 Cons:
 - Fragmented output as the deliverables are delivered in parts
 - Greater time commitment
+
+Explain the role and responsibilities of the Scrum Master vs the Product Owner.
+
+Scrum Master manages all scrum-related tasks (JIRA, sprintsand meetings, standups, etc.).
+On the other hand, the Product Owner sets direction for the team, handles release and stakeholder management.
