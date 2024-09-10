@@ -24,3 +24,11 @@ What are the 3 types of meetings that happen during a sprint cycle?
 3. Sprint Retrospective Meeting:
 - Discuss completed work and move the incomplete work to backlog
 - Close sprint
+
+Differentiate between Epic, Story, Bug, and Task issue types in JIRA
+
+Epic - Captures a large body of work that can be broken down into several smaller stories
+Story - A software system requirement that is expressed in a few short sentences
+Bug - The smallest unit of work that can be tracked through a workflow, which stop other issues from completion
+Task - Used to track an assignment that needs to be completed within a project
+
